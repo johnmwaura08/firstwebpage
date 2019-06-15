@@ -1,0 +1,113 @@
+.topbar{
+
+    background-color: greenyellow;
+    margin:0 auto;
+    padding:0px;
+    widows: 1000px;
+    height:150px;
+}
+
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: 'Source Sans Pro', sans-serif;
+    background: url("./https://images.unsplash.com/photo-1560568082-c15188aa6510?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+background-color: red;
+}
+#up-image{
+width: 150px;
+margin-top: 0px;
+float: left;
+position: relative;
+padding-bottom: 15px;
+
+}
+
+
+.secondpart p {
+
+    font-family:  'Montserrat', sans-serif;
+color:black;
+font-size: large;
+font-weight: bold;
+}
+
+h1 {
+    font-size: 70px;
+    color:black;
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 200px;
+    margin-left: 200px;
+    padding-top: 30px;
+}
+
+h2 {
+    font-size: 200%;
+    color: darkolivegreen;
+
+}
+.photo{
+
+
+    border-radius: 20%;
+    min-width: 400px;
+    min-height: 400px;
+    padding: 50px;
+
+}
+table tr:nth-child(odd){ /* puts color on the table on odd places */
+    background: greenyellow;
+}
+table tr:nth-child(even){ /* puts color on the table on odd places */
+    background:darkseagreen;
+
+}
+#animal{
+color: green;
+
+}
+
+#hashtag{
+    color: crimson;
+}
+
+/*ul{
+    font-family: 'Montserrat', sans-serif;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
+    display: inherit;
+    margin-block-start: 2em;
+    font-size: 10px;
+    font-weight: bold;
+
+}*/
+.button-form{
+
+    width: 400px;
+    background-color:green;
+    margin: 0.75em;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    white-space: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border: 1px solid #038930;
+    border-radius: 25px;
+    font-size: 16.6px;
+    font-weight: 700;
+    margin: 25px;
+
+
+}
+.videoh{
+
+text-align: center;
+
+
+
+}
