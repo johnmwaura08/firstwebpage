@@ -1,6 +1,6 @@
 .topbar{
 
-    background-color: greenyellow;
+    background-color: teal;
     margin:0 auto;
     padding:0px;
     widows: 1000px;
@@ -34,7 +34,7 @@ font-weight: bold;
 
 h1 {
     font-size: 70px;
-    color:black;
+    color:cyan;
     font-style: italic;
     font-weight: bolder;
     padding-left: 200px;
@@ -44,7 +44,7 @@ h1 {
 
 h2 {
     font-size: 200%;
-    color: darkolivegreen;
+    color: teal;
 
 }
 .photo{
@@ -57,10 +57,10 @@ h2 {
 
 }
 table tr:nth-child(odd){ /* puts color on the table on odd places */
-    background: greenyellow;
+    background: cyan;
 }
 table tr:nth-child(even){ /* puts color on the table on odd places */
-    background:darkseagreen;
+    background:teal;
 
 }
 #animal{
